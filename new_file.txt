@@ -1,1 +1,2 @@
 This is random text
+Adding a new line to this
